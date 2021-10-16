@@ -1,19 +1,47 @@
-# boneIO
-boneIO - Smart Home Project
+# Project description
 
-LICENCJA OPEN SOURCE GPL 3	 
- 	 	 	 
-Wszelkie materiały, kody źródłowe, schematy elektryczne, projekty płytek drukowanych i obudowy a także inne niewymienione wcześniej dostępne na stronie projektu, grupie facebook projektu oraz w repozytorum udostępnione są na Licencji Wolnego Oprogramowania GNU General Public License w wersji 3 - chyba, że oznaczono inaczej.
+![Github](https://github.com/maciejk1984/boneIO/blob/main/.resources/boneio.png?raw=true)
 
-Licencja GPL daje użytkownikowi prawo do:
+`BoneIO` is a compact IO controller for home automation. Main features of this controller are
 
-- używania zamieszczonych tu materiałów w dowolnym celu,
-- analizowania i dostosowywania kodów źródłowych do własnych potrzeb,
-- kopiowania i rozpowszechniania niezmodyfikowanych materiałów,
-- udoskonalania i rozpowszechniania zmodyfikowanych materiałów.
+- Compact size (26x11x6)cm
+- DIN rail compatibility
+- Low price
+- Open HSP (See below)
 
-Warunkiem rozpowszechniania materiałów jest zachowanie w nich informacji o oryginalnych prawach autorskich "boneIO - Smart Home Project, Copyright © boneio.eu"
+# Technical details
 
-Urządzenia zbudowane w celu komercyjnym muszą mieć informację: "Wyprodukowano na licencji GPL boneIO - Smart Home Project, Copyright © boneio.eu"
+- 20 relays (230V/16A) for controlling devices
+- 44 digital inputs for buttons, motion detectors etc. 
+- 7 Analog to Digital inputs
+- 1.3" OLED display with control button
+- Ports
+  - Fast Ethernet
+  - I2C
+  - USB
+  - SD Card
+# Open HSP
 
-Więcej informacji na: https://opensource.org/licenses/GPL-3.0
+`BoneIO` is an Open HSP initiative where everything is open on [GPL-3.0 License](https://github.com/dominikjeske/boneIO/blob/main/LICENSE)
+
+- H (Hardware) stands for projects of electronic boards which you can print yourself
+- S (Software) stands for ready to use firmware you can use on printed hardware
+- P (Printables) stands for cases and other plastic elements you can print on a 3D printer and use with our hardware
+
+With all elements in place, you can assemble a complete device. You can use it as-is or fork and modify it for your needs.
+
+# Documentation
+
+- [Video introduction](https://www.youtube.com/watch?v=_EIppBDZWvk) (Polish)
+- [Case introduction](https://www.youtube.com/watch?v=QjhMvNn7mG0) (Polish)
+- [How to contribute](https://github.com/maciejk1984/boneIO/blob/main/.docs/github.md) (Polish)
+
+# Photos
+
+![Github](https://github.com/maciejk1984/boneIO/blob/main/.resources/bone_relays.jpg?raw=true)
+
+![Github](https://github.com/maciejk1984/boneIO/blob/main/.resources/bone_view.jpg?raw=true)
+
+![Github](https://github.com/maciejk1984/boneIO/blob/main/.resources/bone_inputs.jpg?raw=true)
+
+![Github](https://github.com/maciejk1984/boneIO/blob/main/.resources/bone_din.jpg?raw=true)
