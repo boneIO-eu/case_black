@@ -30,11 +30,19 @@
 
 With all elements in place, you can assemble a complete device. You can use it as-is or fork and modify it for your needs.
 
+# Contribution
+
+If you want to contribute to the project here are the rules:
+
+1. When you have something to discuss first use [Discussions](https://github.com/maciejk1984/boneIO/discussions) tab
+2. When you have a specific problem/feature to report add new [issue](https://github.com/maciejk1984/boneIO/issues). `Remember to report single topic in one issue`. If you have complex topic try split it to more **precise** topics.
+3. When you want change something in the repository use your **Fork** and make new **Pull Request** (See [Working with repository](.docs/github.md) (Polish))
+
 # Documentation
 
 - [Video introduction](https://www.youtube.com/watch?v=_EIppBDZWvk) (Polish)
 - [Case introduction](https://www.youtube.com/watch?v=QjhMvNn7mG0) (Polish)
-- [How to contribute](.docs/github.md) (Polish)
+- [Working with repository](.docs/github.md) (Polish)
 
 # Photos
 
