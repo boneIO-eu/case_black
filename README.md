@@ -40,9 +40,12 @@ If you want to contribute to the project here are the rules:
 
 # Documentation
 
-- [Video introduction](https://www.youtube.com/watch?v=_EIppBDZWvk) (Polish)
-- [Case introduction](https://www.youtube.com/watch?v=QjhMvNn7mG0) (Polish)
 - [Working with repository](.docs/github.md) (Polish)
+- Youtube
+  - [Project introduction](https://www.youtube.com/watch?v=_EIppBDZWvk) (Polish)
+  - [Case introduction](https://www.youtube.com/watch?v=QjhMvNn7mG0) (Polish)
+  - [Project status - 17.10.2021](https://www.youtube.com/watch?v=6J2S1L4vNMw) (Polish) 
+
 
 # Photos
 
