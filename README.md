@@ -1,5 +1,6 @@
 # Project description
 
+
 ![Github](.resources/boneio.jpg?raw=true)
 
 `BoneIO` is a compact IO controller for home automation. Main features of this controller are
