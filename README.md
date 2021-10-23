@@ -3,7 +3,7 @@
 ![Github](.resources/boneio.jpg?raw=true)
 
 `BoneIO` is a compact IO controller for home automation. Main features of this controller are
-
+asdsadasdadadas
 - Compact size (26x11x6)cm
 - DIN rail compatibility
 - Low price
