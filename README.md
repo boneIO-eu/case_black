@@ -8,7 +8,6 @@
 - DIN rail compatibility
 - Low price
 - Open HSP (See below)
-- New description
 
 # Technical details
 
