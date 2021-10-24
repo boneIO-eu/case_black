@@ -57,3 +57,6 @@ If you want to contribute to the project here are the rules:
 ![Github](.resources/bone_inputs.jpg?raw=true)
 
 ![Github](.resources/bone_din.jpg?raw=true)
+
+![Github](.resources/board_view.jpg?raw=true)
+
