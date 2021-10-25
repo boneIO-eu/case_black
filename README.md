@@ -12,7 +12,7 @@
 
 # Technical details
 
-- 20 relays (230V/16A) for controlling devices
+- 20 relays (230V/16A) max current 5A* (10A* tinned traces, 16A* bridged 1,5 mm²) *everything needs to be verified
 - 44 digital inputs for buttons, motion detectors etc. 
 - 7 Analog to Digital inputs
 - 1.3" OLED display with control button
