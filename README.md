@@ -36,7 +36,7 @@ With all elements in place, you can assemble a complete device. You can use it a
 If you want to contribute to the project here are the rules:
 
 1. First watch this short training: [How to use repo](https://www.youtube.com/watch?v=aY7B_t2UZy4)
-2. When you have something to discuss first check out our [Team chat](https://discord.gg/X9YRb8TD)
+2. When you have something to discuss first check out our [Team chat](https://discord.gg/PsrXEz9CBp)
 3. When you have a specific problem/feature to report add new [issue](https://github.com/maciejk1984/boneIO/issues). `Remember to report single topic in one issue`. If you have complex topic try split it to more **precise** topics.
 4. When you want change something in the repository use your **Fork** and make new **Pull Request** (See [Working with repository](.docs/github.md) (Polish))
 5. You can also monitor our [Facebook group](https://www.facebook.com/groups/boneio)
