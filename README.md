@@ -1,26 +1,41 @@
 # Project description
 
-![BonePic](.resources/boneio.jpg?raw=true)
+![BonePic](.resources/boneIO_v0.2render.png?raw=true)
 ![BoneDiagram](.resources/boneio.drawio.png?raw=true)
 
 `BoneIO` is a compact IO controller for home automation. Main features of this controller are
 
-- Compact size (26x11x6)cm
+- Compact size (27x11x6)cm - 15 DIN modules
 - DIN rail compatibility
 - Low price
 - Open HSP (See below)
 
-# Technical details
+# Technical details of v0.2
 
-- 20 relays (230V/16A) max current 5A* (10A* tinned traces, 16A* bridged 1,5 mm²) *everything needs to be verified
-- 44 digital inputs for buttons, motion detectors etc. 
-- 7 Analog to Digital inputs
-- 1.3" OLED display with control button
-- Ports
-  - Fast Ethernet
-  - I2C
-  - USB
-  - SD Card
+![InputBoard](.resources/input_board_text.png?raw=true)
+
+- 52 digital inputs
+- 7 analog to digital converters
+- i2c
+- rs485
+- OLED display
+- user switch
+- 24V PSU input
+- ADC VDD output
+- 12-48V external PSU for digital inputs
+- jumper to switch between internal and external PSU for inputs
+- jumper to switch between vcc and gnd input control
+
+![RelayBoard24x16](.resources/relay_board_24x16A_text.png?raw=true)
+
+- 24 relays (230V/16A) max current 5A* (10A* tinned traces, 16A* bridged 1,5 mm²) *everything needs to be verified
+- temp sensor
+
+![RelayBoard32x5](.resources/relay_board_32x5A_text.png?raw=true)
+
+- 32 relays (230V/5A)
+- temp sensor
+
 # Open HSP
 
 `BoneIO` is an Open HSP initiative where everything is open on [GPL-3.0 License](https://github.com/maciejk1984/boneIO/blob/main/LICENSE)
@@ -50,7 +65,7 @@ If you want to contribute to the project here are the rules:
   - [Project status - 17.10.2021](https://www.youtube.com/watch?v=6J2S1L4vNMw) (Polish) 
 
 
-# Photos
+# Photos of v0.1
 
 ![Github](.resources/bone_relays.jpg?raw=true)
 
@@ -60,4 +75,3 @@ If you want to contribute to the project here are the rules:
 
 ![Github](.resources/bone_din.jpg?raw=true)
 
-![Github](.resources/board_view.jpg?raw=true)
