@@ -66,6 +66,8 @@ If you want to contribute to the project here are the rules:
 
 # Photos of v0.2
 ![Github](.resources/boneIO_v0.2_assembly.jpg?raw=true) 
+![Github](.resources/boneIO_v0.2_full_without_case.jpg?raw=true) 
+![Github](.resources/boneIO_v0.2_relays.jpg?raw=true) 
 
 # Photos of v0.1
 
