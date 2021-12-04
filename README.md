@@ -64,6 +64,8 @@ If you want to contribute to the project here are the rules:
   - [Case introduction](https://www.youtube.com/watch?v=QjhMvNn7mG0) (Polish)
   - [Project status - 17.10.2021](https://www.youtube.com/watch?v=6J2S1L4vNMw) (Polish) 
 
+# Photos of v0.2
+![Github](.resources/boneIO_v0.2_assembly.jpg?raw=true) 
 
 # Photos of v0.1
 
