@@ -9,10 +9,11 @@ The case is designed for 3D printing
 # Compatibile with boards
 
 |  | Case BBB v0.2 | Case BBB v0.3 |
-| :---:         |     :---:      |          :---: |
+| :---: | :---: | :---: |
 | input BBB v0.2   | 🟢 | 🔴 |
 | input BBB v0.3   | 🟢 | 🔴 |
 | input BBB v0.4   | 🟢 | 🟢 |
+| input BBB v0.5   | 🟢 | 🟢 |
 | relays boards    | 🟢 | 🟢 |
 | 1/2 relays boards| 🔴 | 🟢 |
 
