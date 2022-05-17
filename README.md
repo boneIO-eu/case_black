@@ -14,6 +14,7 @@ The case is designed for 3D printing
 | input BBB v0.3   | 🟢 | 🔴 |
 | input BBB v0.4   | 🟢 | 🟢 |
 | relays boards    | 🟢 | 🟢 |
+| 1/2 relays boards| 🔴 | 🟢 |
 
 # Bill of Materials for one case
 | Name | pcs. | Notes|
